@@ -1,0 +1,19 @@
+# dependencies
+node_modules
+
+# production
+build
+.next
+
+# debug
+*.log*
+
+# Environmnet
+.env*
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# Database
+*.db*
